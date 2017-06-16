@@ -1,0 +1,27 @@
+body {
+  background-image: url(https://mgcreativedesign.files.wordpress.com/2014/11/website-design-background.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+h1 {
+  text-align: center;
+  color: white;
+  padding-bottom: 40px;
+  margin-top: 130px;
+  text-decoration: none;
+  font-size: 65px;
+  font-weight: bold;
+
+}
+
+h4 {
+  text-align: center;
+  color: white;
+  position: static;
+  font-size: 22px;
+}
+h4:hover {
+  text-decoration: underline;
+  font-size: 30px:
+}
