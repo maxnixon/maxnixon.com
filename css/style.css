@@ -1,10 +1,11 @@
 header nav .fa-snapchat-ghost {
   background: #fffc00;
-  color: white;
+  color:white;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 float: left;
   display: block;
 }
+
 nav a {
   
   color: black;
@@ -27,6 +28,7 @@ header nav {
   position: static;
   top: 0;
   width: 100%;
+  border: 2px solid red;
 }
 nav img {
   height: 50px;
